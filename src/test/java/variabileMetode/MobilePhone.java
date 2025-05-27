@@ -1,7 +1,5 @@
 package variabileMetode;
 
-import org.testng.annotations.Test;
-
 public class MobilePhone {
 //    Tema(facem mai multe teme cu mai multe Clase);
 //   1 O clasa Casa

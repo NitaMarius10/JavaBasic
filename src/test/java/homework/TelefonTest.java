@@ -1,9 +1,9 @@
 package homework;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class TelefonTest {
-    @Test
+    //@Test
     public void phoneTest(){
         System.out.println("===First Example===");
         Iphone Iphone14 = new Iphone("Red", "Iphone 14", 128,

@@ -1,12 +1,14 @@
 package oop.oopExample;
 //am mostenit o clasa si am implementat doua interfete;
 public class StudentAngajat extends Persoana implements StudentInterface,AngajatInterface {
+
     private String facultate;
     private String cursuri;
     private Boolean bursa;
     public String companie;
     public Double salariu;
     public Integer experienta;
+
 
     public StudentAngajat(String nume, String prenume, Integer varsta,
                           String facultate, String cursuri, Boolean bursa, String companie,

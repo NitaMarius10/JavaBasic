@@ -1,6 +1,7 @@
 package obiectConstructor;
 
 public class CandidatlaPresedentie {
+
     public String nume;
     public Integer numarVoturi;
 

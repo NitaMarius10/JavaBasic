@@ -11,4 +11,5 @@ public class AsistentBucatar implements CurataInterface {
     public void spalaVase() {
         System.out.println("Asistentul trebuie sa spele toate vasele folosite!");
     }
+
 }

@@ -1,6 +1,7 @@
 package oop.oopExample;
 
 public abstract class Persoana {
+
     //oop=programare orientata pe obiect(object oriented programming)
     //patru principii importante: mostenire, incapsulare, polimorfism si abstractizare;
 
@@ -39,8 +40,6 @@ public abstract class Persoana {
     //Interfetele pot extinde alte interfete;
     //Cuvantul cheie "interface";
     //Pentru a mosteni o interfata folosim cuvantul cheie "implements";
-
-
 
     private String nume;
     private String prenume;

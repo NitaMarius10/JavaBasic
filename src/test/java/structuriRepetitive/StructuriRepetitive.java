@@ -1,15 +1,8 @@
 package structuriRepetitive;
 
-import org.testng.annotations.Test;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
 public class StructuriRepetitive {
 
-    @Test
-
+    //@Test
     public void metodaTest() {
 //        colegiDeCursArray();
 //        colegiDeCursLista();

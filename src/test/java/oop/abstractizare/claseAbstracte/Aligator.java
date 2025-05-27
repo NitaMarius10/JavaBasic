@@ -11,5 +11,6 @@ public class Aligator extends Animal{
     public void infoAnimal() {
         System.out.println("Aligatorul de culoarea " + getCuloare() + " se numeste " + getNume() + " si are " + getGreutate() + " kg");
     }
+
 }
 

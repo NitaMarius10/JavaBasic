@@ -6,4 +6,5 @@ public class Bucatar implements GatesteInterface{
     public void pregatesteMancarea(String tipDeMancare) {
         System.out.println("Bucatarul pregateste mancarea " + tipDeMancare);
     }
+
 }

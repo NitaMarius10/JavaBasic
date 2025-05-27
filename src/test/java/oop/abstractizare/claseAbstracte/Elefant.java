@@ -2,7 +2,6 @@ package oop.abstractizare.claseAbstracte;
 
 public class Elefant extends Animal{
 
-
     @Override
     public void mananca() {
         System.out.println("Elefantul mananca arahide");

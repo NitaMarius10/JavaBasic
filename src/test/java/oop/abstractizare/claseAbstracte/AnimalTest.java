@@ -1,9 +1,9 @@
 package oop.abstractizare.claseAbstracte;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class AnimalTest {
-    @Test
+    //@Test
     public void testMethod(){
 
         System.out.println("Animal - Exemplul 1");

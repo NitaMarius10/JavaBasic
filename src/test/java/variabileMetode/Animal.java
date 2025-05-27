@@ -1,7 +1,5 @@
 package variabileMetode;
 
-import org.testng.annotations.Test;
-
 public class Animal {
 
     String name = "Gooffy";

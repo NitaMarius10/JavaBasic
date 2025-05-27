@@ -1,7 +1,5 @@
 package variabileMetode;
 
-import org.testng.annotations.Test;
-
 public class Persoana {
 
 //    O clasa in Java este o structura care defineste atat atributele/variabilele/proprietati, cat si metodele unui obiect;

@@ -1,6 +1,7 @@
 package oop.abstractizare.claseAbstracte;
 
 public abstract class Animal {
+
     private String Culoare;
     private String Nume;
     private int Greutate;

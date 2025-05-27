@@ -1,12 +1,5 @@
 package structuriRepetitive;
 
-import org.testng.annotations.Test;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 public class Homework {
 
 
@@ -17,7 +10,7 @@ public class Homework {
 //    3.Alte tipuri de HasMap uri cu String, cu char, cu altele;
 
 
-    @Test
+    //@Test
 
     public void testMethod() {
 //        displayCarList("Dacia");

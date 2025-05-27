@@ -1,8 +1,9 @@
 package obiectConstructor;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class Avion {
+
     // constructorul are rol sa initializeze variabile unei clase
     // recunoastem un constructor dupa numele clasei
     // intr-o clasa putem avea " n " constructori care se diferentiaza dupa parametrii

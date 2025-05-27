@@ -6,6 +6,7 @@ public class Angajat extends Persoana implements AngajatInterface {
     public Double salariu;
     public Integer experienta;
 
+
     public Angajat(String nume, String prenume, Integer varsta, String companie,
                    Double salariu, Integer experienta) {
         super(nume, prenume, varsta); //apelez constructorul parintelui;

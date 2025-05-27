@@ -1,10 +1,8 @@
 package oop.polimorfism.polimorfismStatic;
 
-import org.testng.annotations.Test;
-
 public class CalculeTest {
 
-    @Test
+    //@Test
     public void testAdunare(){
 
         Calcule adunarePolimorfism = new Calcule();

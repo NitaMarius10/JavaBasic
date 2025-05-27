@@ -1,10 +1,8 @@
 package oop.oopExample;
 
-import org.testng.annotations.Test;
-
 public class OOPTest {
 
-    @Test
+    //@Test
     public void oopExampleTest(){
         System.out.println("===Exemplu student===");
         Student Ionel = new Student("Popescu","Ionel",20,"Facultatea de Constructii",

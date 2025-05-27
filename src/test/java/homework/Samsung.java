@@ -1,6 +1,7 @@
 package homework;
 
 public class Samsung extends Telefon implements SamsungInterface {
+
     public String material;
 
     public Samsung(String colour, String model, Integer internalStorage) {

@@ -1,6 +1,7 @@
 package obiectConstructor;
 
 public class ContBancar {
+
     public String numeTitular;
     public Double soldTitular;
     //facem un constructor parametrizat care verifica soldul initial;

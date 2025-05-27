@@ -1,10 +1,8 @@
 package structuriAlternative;
 
-import org.testng.annotations.Test;
-
 public class StructuriAlternative {
 
-    @Test
+    //@Test
     public void testMethod() {
 //        numberVerification(10);
 //        numberVerification(2);

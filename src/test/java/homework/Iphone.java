@@ -1,6 +1,7 @@
 package homework;
 
 public class Iphone extends Telefon implements IphoneInterface {
+
     public String mobileOperatingSystem;
     public Integer weight;
     public String brand;

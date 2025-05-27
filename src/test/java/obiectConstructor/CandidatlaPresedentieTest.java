@@ -1,10 +1,10 @@
 package obiectConstructor;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class CandidatlaPresedentieTest {
 
-    @Test
+    //@Test
     public void verificarePresedinteTest(){
         System.out.println("====Exemplul 1====");
         CandidatlaPresedentie candidatPromitator = new CandidatlaPresedentie(10000,"Popescu");

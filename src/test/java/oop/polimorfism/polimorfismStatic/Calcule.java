@@ -13,4 +13,5 @@ public class Calcule {
     public String adunare(String a, String b){
         return a+b;
     }
+
 }

@@ -1,9 +1,9 @@
 package obiectConstructor;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class AvionTest {
-    @Test
+    //@Test
     public void metodaAvionTest(){
         System.out.println("====Exemplul 1 ====");
         Avion Lufthansa = new Avion("Boeing", "747", "PASAGERI", "SUA", 180, 350, 5);

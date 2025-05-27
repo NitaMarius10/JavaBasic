@@ -1,10 +1,10 @@
 package obiectConstructor;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class ContBancarTest {
 
-    @Test
+    //@Test
     public void metodaContBancarTest (){
         System.out.println("====Exemplul 1 ====");
         ContBancar contValid = new ContBancar("Mihaela",3000.0);

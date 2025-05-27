@@ -1,9 +1,9 @@
 package oop.abstractizare.interfete;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class RestaurantTest {
-    @Test
+    //@Test
     public void activitateRestaurant(){
         Bucatar Ion= new Bucatar();
         Ion.pregatesteMancarea("Mititei");

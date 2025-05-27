@@ -21,4 +21,5 @@ public class Chelner implements ServesteInterface, CurataInterface {
     public void spalaVase() {
         System.out.println("Chelnerul spala vasele la final de program");
     }
+
 }

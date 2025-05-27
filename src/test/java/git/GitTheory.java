@@ -21,5 +21,4 @@ public class GitTheory {
     //Merge=combinarea modificarilor dintr-o ramura in alta;
     //Push=trimiterea modificarilor locale catre un repository remote(GIT LOCAL-> GIT HUB REMOTE);
     //Pull=descarcarea ultimelor modificari de pe remote pe local(GIT HUB REMOTE-> GIT LOCAL);
-
 }

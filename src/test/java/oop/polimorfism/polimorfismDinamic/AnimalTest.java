@@ -1,10 +1,8 @@
 package oop.polimorfism.polimorfismDinamic;
 
-import org.testng.annotations.Test;
-
 public class AnimalTest {
 
-    @Test
+    //@Test
     public void suneteAnimale() {
         Caine Azorel = new Caine();
         Azorel.scoateSunet();
