@@ -17,6 +17,7 @@ public class Iphone extends Telefon implements IphoneInterface {
         System.out.println("The Iphone's mobile operating system is: " + mobileOperatingSystem + " and this phone has the colour " + colour);
         System.out.println("The Iphone's weight is: " + weight + " grams" + " and the model is: " + model);
         System.out.println("The Iphone's brand is: " + brand + " and the internal storage is: " + internalStorage + " GB");
+
     }
 
     @Override
